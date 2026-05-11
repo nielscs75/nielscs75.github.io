@@ -53,9 +53,10 @@ background: radial-gradient(circle at top, var(--bg2), var(--bg1));
 
 font-family: system-ui, sans-serif;
 
-overflow: hidden;
+overflow-y: auto;   /* Autorise le scroll vertical (de haut en bas) si besoin */
+overflow-x: hidden;
 
-padding: 16px;
+padding: 40px;
 
 }
 
