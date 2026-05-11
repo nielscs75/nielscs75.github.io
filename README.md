@@ -8,7 +8,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 
-<title>Will you be my Valentine?</title>
+<title>Question pour Sofía :))</title>
 
 
 
@@ -344,15 +344,15 @@ fill="#ff7aa2"/>
 
 
 
-<h1>nirali will you be my valentine?</h1>
+<h1> Penses-tu être fan de transports en commun ? :)</h1>
 
 
 
 <section class="button-zone" id="zone">
 
-<button id="yesBtn">Yes</button>
+<button id="yesBtn">Oui :))</button>
 
-<button id="noBtn">No</button>
+<button id="noBtn"> Non (impossible 🙄)</button>
 
 </section>
 
@@ -360,19 +360,19 @@ fill="#ff7aa2"/>
 
 <!-- HINT -->
 
-<div class="hint" id="hint">“No” seems a bit shy 😈</div>
+<div class="hint" id="hint"> Tu ne pourras pas dire non cette fois-ci 🙄🙄</div>
 
 
 
 <section class="result" id="result">
 
-<h2>YAY! 🎉</h2>
+<h2> TROP BIENNNNNNNNN</h2>
 
 <img
 
 class="fireworks"
 
-src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"
+src="https://i.ibb.co/HDWjvbTW/unnamed.jpg""
 
 alt="Fireworks"
 
