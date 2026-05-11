@@ -371,7 +371,7 @@ fill="#ff7aa2"/>
 
 class="fireworks"
 
-src="https://i.ibb.co/HDWjvbTW/unnamed.jpg""
+src="https://i.ibb.co/HDWjvbTW/unnamed.jpg"
 
 alt="Fireworks"
 
